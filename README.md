@@ -2,6 +2,8 @@
 
 The Budget Tracker is a simple application designed to help users track their expenses and income. It provides an easy-to-use interface for recording financial transactions, categorizing expenses, and analyzing spending habits.
 
+Currently Working on backend
+
 ## Deployed Link
 https://budget-tracker-chi-flame.vercel.app/
 ## Features
